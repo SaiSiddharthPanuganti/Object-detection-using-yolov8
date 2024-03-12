@@ -1,0 +1,24 @@
+train: /content/drive/MyDrive/train1
+val: /content/drive/MyDrive/test1
+nc: 20
+names:
+  0: person
+  1: car
+  2: chair
+  3: bottle
+  4: pottedplant
+  5: bird
+  6: dog
+  7: sofa
+  8: bicycle
+  9: horse
+  10: boat
+  11: motorbike
+  12: cat
+  13: tvmonitor
+  14: cow
+  15: sheep
+  16: aeroplane
+  17: train
+  18: diningtable
+  19: bus
