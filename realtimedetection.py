@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3,640)
 cap.set(4,480)
 # Model
-model = YOLO("C:/Users/saisi/Downloads/best.pt")
+model = YOLO("C:/Users/saisi/Downloads/best.pt") #add your file path
 
 # Object classes
 classNames = [
